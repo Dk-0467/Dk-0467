@@ -14,7 +14,23 @@ I'm Bùi Đức Kiểm, an IT student passionate about web development. I'm curr
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Dk-0467&repo=Aps.net&theme=merko" />
 </a> 
+
 <a href="https://github.com/Dk-0467/-E-COMMERCE-WEBSITE-DESIGN-/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Dk-0467&repo=-E-COMMERCE-WEBSITE-DESIGN-&theme=gruvbox" />
+</a> 
+
+<a href="https://github.com/Dk-0467/Code_Java/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Dk-0467&repo=Code_Java&theme=onedark" />
+</a> 
+
+<a href="https://github.com/Dk-0467/LTDD2/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Dk-0467&repo=LTDD2&theme=dark" />
+</a> 
+
+<a href="https://github.com/Dk-0467/QuanLyBanHang/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Dk-0467&repo=QuanLyBanHang&theme=cobalt" />
 </a> 
