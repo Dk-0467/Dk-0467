@@ -7,7 +7,7 @@ I'm Bùi Đức Kiểm, an IT student passionate about web development. I'm curr
 
 <a href="https://github.com/Dk-0467/Code-Web-2/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Dk-0467&repo=Code-Web-2&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dk-0467&repo=Code-Web-2&theme=radical" />
 </a>  
 
 <a href="https://github.com/Dk-0467/Aps.net/">
